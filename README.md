@@ -1,2 +1,2 @@
-# proiLab0
-Zerowy projekt, porgramowanie obiektowe
+# proiLab2
+Drugi projekt, porgramowanie obiektowe
